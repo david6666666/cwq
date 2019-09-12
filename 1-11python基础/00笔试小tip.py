@@ -14,7 +14,19 @@ while True:
     except:
         break
 
+import sys
+arr = []
+ndict = {}
+try:
+    while True:
+        line = sys.stdin.readline().strip()
 
+        if line == '':
+            break
+        lines = line.split()
+        arr.append(lines)
+except:
+    pass
 
 '''
 while True:

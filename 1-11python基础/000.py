@@ -11,3 +11,4 @@ while True:
             print(' '.join(map(str, c2)))
     except:
         break
+

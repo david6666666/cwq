@@ -1,12 +1,15 @@
 n = int(input())
 mat = []
 count = 0
-while True:
-    try:
-        s = list(map(int, input().split(' ')))
-        mat.append(s)
-    except:
-        break
+try:
+    while True:
+        try:
+            s = list(map(int, input().split(' ')))
+            mat.append(s)
+        except:
+            break
+except:
+    pass
 print(mat)
 for i in range(n):
     for j,e  in enumerate(mat[i]):
