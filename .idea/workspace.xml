@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5f805c48-0bbf-4c7a-b4df-8fc46354c71f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33剑指offer/3二维数组中的查找.py" beforeDir="false" afterPath="$PROJECT_DIR$/33剑指offer/03二维数组中的查找.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33剑指offer/4替换空格.py" beforeDir="false" afterPath="$PROJECT_DIR$/33剑指offer/04替换空格.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33剑指offer/5从尾到头打印链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/33剑指offer/05从尾到头打印链表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33剑指offer/6 重建二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/33剑指offer/06 重建二叉树.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33剑指offer/7. 用两个栈实现队列.py" beforeDir="false" afterPath="$PROJECT_DIR$/33剑指offer/07. 用两个栈实现队列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33剑指offer/8 旋转数组的最小数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/33剑指offer/08 旋转数组的最小数字.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33剑指offer/9 斐波那契数列.py" beforeDir="false" afterPath="$PROJECT_DIR$/33剑指offer/09 斐波那契数列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33剑指offer/50 树中两个节点的最低公共祖先.py" beforeDir="false" afterPath="$PROJECT_DIR$/33剑指offer/50 树中两个节点的最低公共祖先.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,20 +14,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/123.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="260">
+              <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/33剑指offer/50 树中两个节点的最低公共祖先.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/33剑指offer/45 （2）股票的最大利润.py">
+        <entry file="file://$PROJECT_DIR$/33剑指offer/25 二叉树中和为某一值的路径.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="730">
+              <caret line="44" column="27" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -78,7 +82,6 @@
         <option value="$PROJECT_DIR$/33剑指offer/60 把二叉树打印成多行.py" />
         <option value="$PROJECT_DIR$/33剑指offer/61 按之字形顺序打印二叉树.py" />
         <option value="$PROJECT_DIR$/33剑指offer/24 二叉搜索树的后续遍历序列.py" />
-        <option value="$PROJECT_DIR$/33剑指offer/25 二叉树中和为某一值的路径.py" />
         <option value="$PROJECT_DIR$/33剑指offer/26 复杂链表的复制.py" />
         <option value="$PROJECT_DIR$/33剑指offer/27 二叉搜索树与双向链表.py" />
         <option value="$PROJECT_DIR$/33剑指offer/62 序列化二叉树.py" />
@@ -112,9 +115,10 @@
         <option value="$PROJECT_DIR$/33剑指offer/47 不用加减乘除做加法.py" />
         <option value="$PROJECT_DIR$/33剑指offer/44 扑克牌的顺子.py" />
         <option value="$PROJECT_DIR$/33剑指offer/45 孩子们的游戏(圆圈中最后剩下的数).py" />
-        <option value="$PROJECT_DIR$/33剑指offer/50 树中两个节点的最低公共祖先.py" />
         <option value="$PROJECT_DIR$/333.py" />
         <option value="$PROJECT_DIR$/123.py" />
+        <option value="$PROJECT_DIR$/33剑指offer/25 二叉树中和为某一值的路径.py" />
+        <option value="$PROJECT_DIR$/33剑指offer/50 树中两个节点的最低公共祖先.py" />
       </list>
     </option>
   </component>
@@ -179,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.123">
+  <component name="RunManager" selected="Python.50 树中两个节点的最低公共祖先">
     <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-learning-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,27 +226,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="38数字在排序数组中出现的次数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-learning-1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/33剑指offer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/33剑指offer/38数字在排序数组中出现的次数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="43 n个骰子的点数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-learning-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,6 +239,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/33剑指offer/43 n个骰子的点数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="50 树中两个节点的最低公共祖先" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-learning-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/33剑指offer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/33剑指offer/50 树中两个节点的最低公共祖先.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.50 树中两个节点的最低公共祖先" />
         <item itemvalue="Python.123" />
         <item itemvalue="Python.333" />
         <item itemvalue="Python.43 n个骰子的点数" />
         <item itemvalue="Python.65 滑动窗口的最大值" />
-        <item itemvalue="Python.38数字在排序数组中出现的次数" />
       </list>
     </recent_temporary>
   </component>
@@ -334,18 +338,26 @@
       <option name="project" value="LOCAL" />
       <updated>1568425754490</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1">
+      <created>1568426100846</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568426100846</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="922" y="0" width="1002" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49916527" visible="true" weight="0.24481328" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49916527" visible="true" weight="0.24481328" />
       <window_info id="Structure" order="1" sideWeight="0.5008347" side_tool="true" weight="0.21793635" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32975295" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40628386" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40628386" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35102925" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,13 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
           <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/33剑指offer/25 二叉树中和为某一值的路径.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
@@ -493,13 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="479">
           <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/33剑指offer/70 最长不含重复字符的子字符串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
@@ -688,13 +686,6 @@
         <state relative-caret-position="-120" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/33剑指offer/50 树中两个节点的最低公共祖先.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/333.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -704,15 +695,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/33剑指offer/45 （2）股票的最大利润.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="220">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33剑指offer/70 最长不含重复字符的子字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/123.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="260">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33剑指offer/25 二叉树中和为某一值的路径.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/33剑指offer/50 树中两个节点的最低公共祖先.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
