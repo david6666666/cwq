@@ -15,6 +15,7 @@ def shellSort(arr):
                     break
         gap //= 2
     return arr
+
 a = [9,1,5,8,3,7,4,6,2]
 shellSort(a)
 print(a)

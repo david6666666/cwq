@@ -6,6 +6,7 @@ def merge_sort(arr):
     left_arr = merge_sort(arr[:mid])
     right_arr = merge_sort(arr[mid:])
     return merge(left_arr,right_arr)
+
 def merge(left_arr,right_arr):
     l_index = 0
     r_index = 0

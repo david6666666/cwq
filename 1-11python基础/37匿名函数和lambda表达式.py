@@ -15,3 +15,15 @@ print(f(2,3,4))
 
 g = [lambda a:a*2,lambda b:b*3,lambda c:c*4]
 print(g[0](6),g[1](7),g[2](8))
+
+def main():
+
+    # 产生1到20的序列 [1,20]
+    group_num = range(1, 21, 1)
+    res_list = list(filter(lambda x: x % 2 == 1, group_num))
+    # 查看
+    print(res_list)
+
+
+if __name__ == '__main__':
+    main()

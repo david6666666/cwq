@@ -1,3 +1,14 @@
+def  bubbleSort(arr):
+    flag = 1
+    for i in range(len(arr)-1):
+        if flag:
+            flag = 0
+            for j in range(i,len(arr)-1)[::-1]:
+                if arr[j] >arr[j+1]:
+                    arr[j],arr[j+1]=arr[j+1],arr[j]
+                    flag = 1
+        print(arr)
+    return arr
 def bubbleSort2(arr):
     n = len(arr)
     for i in range(n-1):
@@ -22,9 +33,10 @@ def bubbleSort3(arr):
             break
     return arr
 
+    return arr
 a = [11, 5, 6, 1,9]
 b = [1,2,3,5,7,6]
-c = bubbleSort2(a)
+c = bubbleSort(a)
 print(c)
 print('------------')
 d = bubbleSort3(b)
