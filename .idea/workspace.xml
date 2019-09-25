@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f805c48-0bbf-4c7a-b4df-8fc46354c71f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/26爬虫/01 requests.get().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/02爬取网页通用代码框架.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/03http与requests的主要方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/04Requests库主要方法解析.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/05 网络爬虫引发的问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/06 Robots协议.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/07 京东商品页面爬取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/08 亚马逊商品的爬取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/09 百度360搜索关键字提交.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/10 网络图片的爬取与存储.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/11 IP地址归属地的自动查询.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/12 Beautiful 库.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/13 Beautiful库的基本元素.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/14 基于bs4库的HTML内容遍历方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26爬虫/15 基于bs4库的HTML格式化与编码.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-learning-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-learning-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-11python基础/1对象.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-11python基础/01对象.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-11python基础/2引用.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-11python基础/02引用.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-11python基础/3标识符.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-11python基础/03标识符.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-11python基础/4变量的声明和赋值.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-11python基础/04变量的声明和赋值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-11python基础/5赋值.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-11python基础/05赋值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-11python基础/6最基本内置数据类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-11python基础/06最基本内置数据类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-11python基础/7整数.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-11python基础/07整数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-11python基础/8浮点数.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-11python基础/08浮点数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-11python基础/9时间的表示.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-11python基础/09时间的表示.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/333.py" beforeDir="false" afterPath="$PROJECT_DIR$/333.py" afterDir="false" />
-    </list>
+    <list default="true" id="5f805c48-0bbf-4c7a-b4df-8fc46354c71f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,8 +116,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="945" />
-    <option name="width" value="978" />
+    <option name="x" value="947" />
+    <option name="width" value="976" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -161,11 +132,6 @@
             <path>
               <item name="Python-learning-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-learning-1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python-learning-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-learning-1" type="462c0819:PsiDirectoryNode" />
-              <item name="26爬虫" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -381,19 +347,26 @@
       <option name="project" value="LOCAL" />
       <updated>1568725537056</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="1">
+      <created>1569383599579</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569383599579</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="945" y="0" width="978" height="1047" extended-state="0" />
+    <frame x="947" y="0" width="976" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49916527" visible="true" weight="0.22234042" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49916527" visible="true" weight="0.2228145" />
       <window_info id="Structure" order="1" sideWeight="0.5008347" side_tool="true" weight="0.21793635" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32975295" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41073385" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41073385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3504929" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
